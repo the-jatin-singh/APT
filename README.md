@@ -9,3 +9,5 @@ AI Toolbox for Images, Videos, Music, and Answers. Simplify complexity, amplify 
 - [Prisma](https://www.prisma.io/)
 - [Stripe](https://stripe.com/)
 
+## Features
+- AI Features like Image generation, Music generation, Image generation can all be accessed in one app.
